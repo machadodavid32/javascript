@@ -1,0 +1,1 @@
+console.log("olaa"); // isso é uma sentença de código
